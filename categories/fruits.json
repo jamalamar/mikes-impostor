@@ -1,0 +1,26 @@
+{
+  "name": "Fruits",
+  "icon": "🍎",
+  "words": [
+    { "word": "Apple", "hint": "Red or green fruit" },
+    { "word": "Banana", "hint": "Yellow curved fruit" },
+    { "word": "Orange", "hint": "Citrus fruit" },
+    { "word": "Strawberry", "hint": "Red berry with seeds" },
+    { "word": "Grape", "hint": "Grows in bunches" },
+    { "word": "Watermelon", "hint": "Large summer fruit" },
+    { "word": "Pineapple", "hint": "Tropical spiky fruit" },
+    { "word": "Mango", "hint": "Tropical stone fruit" },
+    { "word": "Peach", "hint": "Fuzzy stone fruit" },
+    { "word": "Cherry", "hint": "Small red fruit" },
+    { "word": "Blueberry", "hint": "Small blue fruit" },
+    { "word": "Lemon", "hint": "Sour yellow citrus" },
+    { "word": "Coconut", "hint": "Tropical hard fruit" },
+    { "word": "Kiwi", "hint": "Fuzzy brown outside" },
+    { "word": "Avocado", "hint": "Green creamy fruit" },
+    { "word": "Pomegranate", "hint": "Red fruit with seeds" },
+    { "word": "Raspberry", "hint": "Red berry fruit" },
+    { "word": "Pear", "hint": "Green teardrop fruit" },
+    { "word": "Lime", "hint": "Small green citrus" },
+    { "word": "Papaya", "hint": "Tropical orange fruit" }
+  ]
+}

@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=1200, height=630">
+    <title>OG Image Generator</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            width: 1200px;
+            height: 630px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .background-pattern {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            opacity: 0.1;
+        }
+
+        .pattern-emoji {
+            position: absolute;
+            font-size: 80px;
+            transform: rotate(-15deg);
+        }
+
+        .main-content {
+            text-align: center;
+            z-index: 10;
+            position: relative;
+        }
+
+        .title {
+            font-size: 120px;
+            font-weight: 900;
+            color: white;
+            text-transform: uppercase;
+            letter-spacing: 8px;
+            margin-bottom: 30px;
+            text-shadow: 
+                0 10px 30px rgba(0, 0, 0, 0.3),
+                0 5px 15px rgba(0, 0, 0, 0.2);
+            animation: glow 2s ease-in-out infinite alternate;
+        }
+
+        @keyframes glow {
+            from {
+                text-shadow: 
+                    0 10px 30px rgba(0, 0, 0, 0.3),
+                    0 5px 15px rgba(0, 0, 0, 0.2),
+                    0 0 30px rgba(255, 255, 255, 0.3);
+            }
+            to {
+                text-shadow: 
+                    0 10px 30px rgba(0, 0, 0, 0.3),
+                    0 5px 15px rgba(0, 0, 0, 0.2),
+                    0 0 50px rgba(255, 255, 255, 0.5);
+            }
+        }
+
+        .subtitle {
+            font-size: 36px;
+            color: rgba(255, 255, 255, 0.95);
+            margin-bottom: 40px;
+            font-weight: 500;
+        }
+
+        .emojis {
+            font-size: 100px;
+            margin-bottom: 30px;
+        }
+
+        .tagline {
+            font-size: 28px;
+            color: rgba(255, 255, 255, 0.9);
+            background: rgba(0, 0, 0, 0.2);
+            padding: 15px 40px;
+            border-radius: 50px;
+            display: inline-block;
+            backdrop-filter: blur(10px);
+        }
+
+        .signature {
+            position: absolute;
+            bottom: 30px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 22px;
+            color: white;
+            background: rgba(118, 75, 162, 0.8);
+            padding: 12px 30px;
+            border-radius: 30px;
+            font-weight: 500;
+            letter-spacing: 0.5px;
+        }
+
+        .signature .brand {
+            color: #e8d4ff;
+            font-weight: bold;
+            text-decoration: none;
+        }
+
+        .corner-decoration {
+            position: absolute;
+            width: 200px;
+            height: 200px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 50%;
+        }
+
+        .corner-decoration.top-left {
+            top: -100px;
+            left: -100px;
+        }
+
+        .corner-decoration.top-right {
+            top: -100px;
+            right: -100px;
+        }
+
+        .corner-decoration.bottom-left {
+            bottom: -100px;
+            left: -100px;
+        }
+
+        .corner-decoration.bottom-right {
+            bottom: -100px;
+            right: -100px;
+        }
+    </style>
+</head>
+<body>
+    <div class="background-pattern">
+        <span class="pattern-emoji" style="top: 10%; left: 10%;">🎭</span>
+        <span class="pattern-emoji" style="top: 20%; right: 15%;">🤔</span>
+        <span class="pattern-emoji" style="bottom: 20%; left: 20%;">🕵️</span>
+        <span class="pattern-emoji" style="bottom: 15%; right: 10%;">🎲</span>
+        <span class="pattern-emoji" style="top: 50%; left: 5%;">🎮</span>
+        <span class="pattern-emoji" style="top: 60%; right: 8%;">👥</span>
+    </div>
+
+    <div class="corner-decoration top-left"></div>
+    <div class="corner-decoration top-right"></div>
+    <div class="corner-decoration bottom-left"></div>
+    <div class="corner-decoration bottom-right"></div>
+
+    <div class="main-content">
+        <div class="emojis">🎭 🕵️ 🎮</div>
+        <h1 class="title">IMPOSTOR</h1>
+        <p class="subtitle">The Ultimate Party Game</p>
+        <p class="tagline">One impostor • One hint • Lots of fun!</p>
+    </div>
+
+    <div class="signature">
+        Made with ❤️ by <span class="brand">DigiHoriz</span>
+    </div>
+</body>
+</html>

@@ -1,0 +1,26 @@
+{
+  "name": "Animals",
+  "icon": "🦁",
+  "words": [
+    { "word": "Lion", "hint": "King of jungle" },
+    { "word": "Elephant", "hint": "Large with trunk" },
+    { "word": "Penguin", "hint": "Antarctic bird" },
+    { "word": "Giraffe", "hint": "Tall neck animal" },
+    { "word": "Dolphin", "hint": "Smart sea mammal" },
+    { "word": "Eagle", "hint": "National bird" },
+    { "word": "Panda", "hint": "Black and white bear" },
+    { "word": "Tiger", "hint": "Striped big cat" },
+    { "word": "Kangaroo", "hint": "Australian hopper" },
+    { "word": "Octopus", "hint": "Eight-armed sea creature" },
+    { "word": "Butterfly", "hint": "Colorful flying insect" },
+    { "word": "Shark", "hint": "Ocean predator" },
+    { "word": "Monkey", "hint": "Tree-dwelling primate" },
+    { "word": "Turtle", "hint": "Shelled reptile" },
+    { "word": "Zebra", "hint": "Striped horse-like" },
+    { "word": "Owl", "hint": "Night bird" },
+    { "word": "Whale", "hint": "Largest mammal" },
+    { "word": "Snake", "hint": "Legless reptile" },
+    { "word": "Polar Bear", "hint": "Arctic white bear" },
+    { "word": "Cheetah", "hint": "Fastest land animal" }
+  ]
+}

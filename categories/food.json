@@ -1,0 +1,26 @@
+{
+  "name": "Food",
+  "icon": "🍕",
+  "words": [
+    { "word": "Pizza", "hint": "Italian round dish" },
+    { "word": "Burger", "hint": "Beef patty sandwich" },
+    { "word": "Sushi", "hint": "Japanese rice rolls" },
+    { "word": "Pasta", "hint": "Italian noodles" },
+    { "word": "Tacos", "hint": "Mexican folded food" },
+    { "word": "Ice Cream", "hint": "Frozen dessert" },
+    { "word": "Sandwich", "hint": "Bread with filling" },
+    { "word": "Salad", "hint": "Mixed vegetables" },
+    { "word": "Soup", "hint": "Hot liquid meal" },
+    { "word": "Steak", "hint": "Grilled beef" },
+    { "word": "Chicken", "hint": "Popular poultry" },
+    { "word": "Rice", "hint": "Asian staple grain" },
+    { "word": "Bread", "hint": "Baked flour food" },
+    { "word": "Cheese", "hint": "Dairy product" },
+    { "word": "Chocolate", "hint": "Sweet brown treat" },
+    { "word": "Cookie", "hint": "Sweet baked snack" },
+    { "word": "Cake", "hint": "Birthday dessert" },
+    { "word": "Pancakes", "hint": "Breakfast flat cakes" },
+    { "word": "Bacon", "hint": "Crispy pork strips" },
+    { "word": "Popcorn", "hint": "Movie snack" }
+  ]
+}

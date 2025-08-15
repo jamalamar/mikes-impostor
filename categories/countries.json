@@ -1,0 +1,26 @@
+{
+  "name": "Countries",
+  "icon": "🌍",
+  "words": [
+    { "word": "France", "hint": "Eiffel Tower country" },
+    { "word": "Japan", "hint": "Island nation in Asia" },
+    { "word": "Brazil", "hint": "Largest South American" },
+    { "word": "Canada", "hint": "North of USA" },
+    { "word": "Australia", "hint": "Island continent" },
+    { "word": "India", "hint": "Taj Mahal country" },
+    { "word": "Egypt", "hint": "Pyramids country" },
+    { "word": "Mexico", "hint": "South of USA" },
+    { "word": "Italy", "hint": "Boot-shaped country" },
+    { "word": "Germany", "hint": "Central European country" },
+    { "word": "Spain", "hint": "Iberian peninsula" },
+    { "word": "China", "hint": "Most populous country" },
+    { "word": "Russia", "hint": "Largest country" },
+    { "word": "United Kingdom", "hint": "Island nation in Europe" },
+    { "word": "Greece", "hint": "Ancient civilization" },
+    { "word": "Thailand", "hint": "Southeast Asian kingdom" },
+    { "word": "Argentina", "hint": "Tango country" },
+    { "word": "Norway", "hint": "Scandinavian fjords" },
+    { "word": "Kenya", "hint": "Safari country" },
+    { "word": "Switzerland", "hint": "Alpine neutral country" }
+  ]
+}

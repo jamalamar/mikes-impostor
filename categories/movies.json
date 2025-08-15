@@ -1,0 +1,26 @@
+{
+  "name": "Movies",
+  "icon": "🎬",
+  "words": [
+    { "word": "Titanic", "hint": "Ship disaster film" },
+    { "word": "Avatar", "hint": "Blue aliens movie" },
+    { "word": "Star Wars", "hint": "Space saga" },
+    { "word": "Harry Potter", "hint": "Wizard school series" },
+    { "word": "The Lion King", "hint": "Disney animal film" },
+    { "word": "Frozen", "hint": "Ice queen animated" },
+    { "word": "Avengers", "hint": "Superhero team" },
+    { "word": "Jurassic Park", "hint": "Dinosaur theme park" },
+    { "word": "The Matrix", "hint": "Virtual reality action" },
+    { "word": "Toy Story", "hint": "Animated toys" },
+    { "word": "Finding Nemo", "hint": "Lost fish story" },
+    { "word": "Shrek", "hint": "Green ogre comedy" },
+    { "word": "Batman", "hint": "Dark knight hero" },
+    { "word": "Spider-Man", "hint": "Web-slinging hero" },
+    { "word": "Inception", "hint": "Dream heist film" },
+    { "word": "The Godfather", "hint": "Mafia family saga" },
+    { "word": "Home Alone", "hint": "Kid vs burglars" },
+    { "word": "E.T.", "hint": "Alien friend movie" },
+    { "word": "Jaws", "hint": "Shark thriller" },
+    { "word": "Back to the Future", "hint": "Time travel adventure" }
+  ]
+}

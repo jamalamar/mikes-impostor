@@ -1,0 +1,26 @@
+{
+  "name": "Sports",
+  "icon": "⚽",
+  "words": [
+    { "word": "Soccer", "hint": "Kicking ball sport" },
+    { "word": "Basketball", "hint": "Hoop shooting sport" },
+    { "word": "Tennis", "hint": "Racket and ball" },
+    { "word": "Baseball", "hint": "American bat sport" },
+    { "word": "Golf", "hint": "Club and holes" },
+    { "word": "Swimming", "hint": "Water racing" },
+    { "word": "Boxing", "hint": "Fighting sport" },
+    { "word": "Football", "hint": "American gridiron" },
+    { "word": "Cricket", "hint": "Bat and wickets" },
+    { "word": "Hockey", "hint": "Ice and puck" },
+    { "word": "Volleyball", "hint": "Net and beach" },
+    { "word": "Rugby", "hint": "Oval ball tackling" },
+    { "word": "Skiing", "hint": "Snow slopes sport" },
+    { "word": "Cycling", "hint": "Bike racing" },
+    { "word": "Running", "hint": "Track sport" },
+    { "word": "Gymnastics", "hint": "Flexible athletic" },
+    { "word": "Wrestling", "hint": "Grappling sport" },
+    { "word": "Surfing", "hint": "Wave riding" },
+    { "word": "Skateboarding", "hint": "Board tricks sport" },
+    { "word": "Bowling", "hint": "Pins and lanes" }
+  ]
+}
